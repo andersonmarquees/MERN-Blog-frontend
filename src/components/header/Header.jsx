@@ -8,7 +8,7 @@ export default function Header() {
         <div className="headerTitleSm">React & Node</div>
         <div className="headerTitleLg">Blog</div>
       </div>
-      <img className="headerImg" src={imgNature} alt="image" />
+      <img className="headerImg" src={imgNature} alt="header" />
     </div>
   );
 }
